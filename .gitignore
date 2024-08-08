@@ -2,5 +2,5 @@
 *.i
 *.s
 *.o
-*.out
+
 .vscode/
