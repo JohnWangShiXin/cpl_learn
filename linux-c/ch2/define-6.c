@@ -9,6 +9,6 @@ int main()
     printf("i = %d\tj = %d\n", i, j);
     printf("%d\n", MAX(i++, j++));
     printf("i = %d\tj = %d\n", i, j);
-
+    
     return 0;
 }
