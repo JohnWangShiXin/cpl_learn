@@ -4,6 +4,7 @@
 
 int main()
 {
+    __FUNCTION__;
     int i = 5, j = 3;
     // printf("%d\n", MAX(i, j));
     printf("%d\n", MAX(i, j * 2));
